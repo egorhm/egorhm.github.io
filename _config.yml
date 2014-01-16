@@ -8,7 +8,7 @@ pygments: true
 title: Egor Hamaliy
 description: Stylish Jekyll Theme
 author:
-  name:
+  name: Egor Hamaliy
   email: egor.hamaliy@gmail.com
   github: egorhm
   twitter: egor_hm
@@ -16,7 +16,7 @@ author:
   email_md5: dd050e6d8b0f09cf2c0dda78382e6944
 
 # rss_path: feed.xml
-categories_path: categories.html
+# categories_path: categories.html
 tags_path: tags.html
 
 BASE_PATH: http://egorhm.github.io
