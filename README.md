@@ -1,30 +1,12 @@
-dbyll
-=====
+h1. This is the data for "egorhm.net":http://egorhm.net site
 
-Open source stylish, minimalistic theme for jekyll.  
-Demo: http://dbtek.github.io/dbyll/
+It is automatically transformed by "Jekyll":http://github.com/mojombo/jekyll into a static site whenever we push this repository to GitHub.
 
-### Features
-- Pagination. (New)
-- Syntax highlighting with pygments. (New)
-- Responsive layout.
-- Supports tags and categories.
-- Social profile and bio of author.
-- Bootstrap based.
-- Glyphicon and Font-Awesome Icons.
+h1. License
 
+The following directories and their contents are Copyright. You may not reuse anything therein without our permission:
 
-### Download
-* [Download dbyll](https://github.com/dbtek/dbyll/archive/master.zip)
+* _posts/
+* media/
 
-### Snapshots
-
-![dbyll-screenshot](http://dbtek.github.io/dbyll/assets/media/dbyll-ss.png)
-
-### License
-- [MIT](http://opensource.org/licenses/MIT)
-
-
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/dbtek/dbyll/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-
+All other directories and files are MIT Licensed. Feel free to use the HTML and CSS as you please. If you do use them, a link back to "egorhm.net":http://egorhm.net would be appreciated, but is not required.
