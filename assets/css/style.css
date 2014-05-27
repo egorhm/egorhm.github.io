@@ -34,7 +34,8 @@ a.nav-link i{
 a.nav-link:hover { color: #777 }
 
 #bio {
-	font-family: "Courier New", Courier, monospace;
+	/*font-family: "Courier New", Courier, monospace;*/
+  font-family: "ff-tisa-web-pro","Georgia","Times New Roman",serif;
 	font-size: 11px;
 	margin: 0 auto;
 	margin-bottom: 10px;
@@ -61,10 +62,12 @@ article{
 
 article.home div a, article.home pre a { color: #2c3e50; }
 article.home div a:hover, article.home pre a:hover { color: #2c3e50; text-decoration: none; }
-article img { max-width: 100%; }
+/*article img { max-width: 100%; }*/
 
-h1,h2,h3,h4,h5,h6{ font-family: 'Ubuntu', sans-serif; color: #2c3e50; }
-h1 a,h2 a,h3 a,h4 a{ color: #2c3e50; }
+h1,h2,h3,h4,h5,h6{ font-family: "freight-sans-pro","Myriad Pro","Lucida Grande","Verdana",sansserif;}
+
+
+h1 a,h2 a,h3 a,h4 a{ color: #333333;}; }
 h1 a:hover,h2 a:hover,h3 a:hover,h4 a:hover{ color: #243547; }
 
 footer {
@@ -107,3 +110,5 @@ footer {
     left: inherit;
     right: 0px;
 }
+
+.container { max-width: 920px;}
