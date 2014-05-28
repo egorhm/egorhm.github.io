@@ -27,8 +27,9 @@ tagline:
             <div>
                 {% if post.content contains '<!--more-->' %}
                   {{ post.content | split:'<!--more-->' | first }}
+                  <p><a href="{{ post.url }}">Continue reading</a></p>
                 {% else %}
-                  <!-- Case for when no excerpt is defined -->
+                  {{ post.content }}
                 {% endif %}
             </div>
 
