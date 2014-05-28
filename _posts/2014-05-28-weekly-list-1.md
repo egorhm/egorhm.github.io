@@ -6,6 +6,8 @@ tags: [weekly, usefull, bookmark]
 
 For a long time I was using browser bookmarks features to save links, but it doesn't perform well on a large number of links. When it groes it becomes really hard to find there anything... So, I decided to put in this weekly list the most usefull links, so that it will be easy to share them and return after some time passed. Let it be called _"Weely#n"_
 
+<!--more-->
+
 1. [10 Articles Every Programmer Must Read](http://javarevisited.blogspot.sg/2014/05/10-articles-every-programmer-must-read.html)
 
     10 great articles (some of them even pretend to be small books) on different topics that every programmer should know. They tend to give a lot of useful and in-depth information about a particular topic, which otherwise is very hard to discover. Covers such topics as memory, Unicode, floating point arithmetic, networking, object oriented design, time, URL Encoding, String and more

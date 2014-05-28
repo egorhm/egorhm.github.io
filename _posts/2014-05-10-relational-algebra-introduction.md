@@ -5,8 +5,6 @@ categories: [relational algebra, programming]
 tags: [orm, relational_algebra, database]
 ---
 
-###The Origins of Relational Algebra
-
 Relational algebra didn’t get  much attention outside of pure mathematics until Edgar F. Codd's publication on the relational data in 1970. Codd proposed such algebra as a basis for database query languages. In expressive power, relational algebra is equivalent to relational calculus (and thus first-order logic). This result is known as Codd's theorem named after E. F. Codd, the father of the relational model for database management.<!--more-->
 According to Wikipedia:
 
