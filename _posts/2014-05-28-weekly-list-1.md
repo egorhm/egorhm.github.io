@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Weekly#1
-tags: [weekly, usefull, bookmark]
+tags: [weekly, bookmark]
 ---
 
-For a long time I was using browser bookmarks features to save links, but it doesn't perform well on a large number of links. When it groes it becomes really hard to find there anything... So, I decided to put in this weekly list the most usefull links, so that it will be easy to share them and return after some time passed. Let it be called _"Weely#n"_
+For a long time I was using browser bookmarks features to save links, but it doesn't perform well on a large number of links as very often I didn't return to reading them... So, I decided to put the most valuable and interesting for links into weekly posts.
 
 <!--more-->
 
