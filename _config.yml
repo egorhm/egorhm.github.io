@@ -8,13 +8,13 @@ encoding: utf-8
 markdown: kramdown
 
 title: Egor Hamaliy
-description: Stylish Jekyll Theme
+description: Egor Hamaliy person blog
 author:
   name: Egor Hamaliy
   email: egor.hamaliy@gmail.com
   github: egorhm
   twitter: egor_hm
-  bio: Ruby/Erlang/Java developer at EPAM Systems
+  bio: Python/Erlang/Scala developer
   email_md5: dd050e6d8b0f09cf2c0dda78382e6944
 
 # rss_path: feed.xml
